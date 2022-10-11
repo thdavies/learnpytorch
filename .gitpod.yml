@@ -1,0 +1,4 @@
+# startup tasks
+tasks:
+  - init: |
+      pip3 install torch torchvision torchaudio
